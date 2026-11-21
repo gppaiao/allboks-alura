@@ -28,16 +28,15 @@ Com os seguintes dados:
 
 ```
 {
-    "nome": "vinicios neves",
-    "email": "vinicios@alura.com.br",
-    "senha": "123456",
-    "endereco": "Rua Vergueiro, 3185",
-    "complemento": "Vila Mariana",
-    "cep": "04101-300"
+    "nome": <nome-do-usuario>,
+    "email": <email-do-usuario>,
+    "senha": <senha-do-usuario>,
+    "endereco": <endereço-do-usuario>,
+    "complemento": <complemento-do-usuario>,
+    "cep": "<cep-do-usuario>"
 }
 ```
-
-Repare que o e-mail é um campo único e usuários com e-mails duplicados não serão persistidos.
+> Repare que o e-mail é um campo único e usuários com e-mails duplicados não serão persistidos.
 
 ## 🛠️ Como fazer login?
 
